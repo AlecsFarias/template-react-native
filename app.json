@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "rosh-time",
+    "slug": "rosh-time",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "rosh-time"
+}
